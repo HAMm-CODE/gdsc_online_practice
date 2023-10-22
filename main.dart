@@ -4,6 +4,8 @@ void main() {
   String? firstString; // Nullable String
   String? secondString;
   int? age;
+  age = 18;
+  print(age);
 
   courseUnit = 'Computer Science';
   firstString = 'hamza flutter dev';
