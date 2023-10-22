@@ -1,5 +1,6 @@
 void main() {
   String? middlename;
+  String? courseUnit;
   String? firstString; // Nullable String
   String? secondString;
   int? age;
