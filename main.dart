@@ -5,6 +5,7 @@ void main() {
   String? secondString;
   int? age;
 
+  courseUnit = 'Computer Science';
   firstString = 'hamza flutter dev';
 //the ?. operator
   // print(firstString.toUpperCase());
